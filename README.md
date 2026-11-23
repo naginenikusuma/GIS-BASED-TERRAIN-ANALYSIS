@@ -69,9 +69,6 @@ The project generates four thematic maps:
 
 This GIS-based terrain analysis provides an understanding of the topographic characteristics of Vizianagaram District. The integration of elevation, slope, aspect and hillshade maps provides useful baseline information for further watershed, hydrological and environmental studies.
 
-## 9. Author
-
-**GIS Terrain Analysis Project**
 
 **Study Area:** Vizianagaram District, Andhra Pradesh, India.
 
